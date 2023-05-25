@@ -44,12 +44,3 @@ p {
   .underline:hover {
     text-decoration: underline;
   }
-  .gato{
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-    object-position: right;
-    border-radius: 150px;
-    border-width: 1px;
-    border-color: pink;
-  }
